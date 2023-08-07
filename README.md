@@ -2,7 +2,7 @@
 
 An exploration of recreating Bob Dylan-esque lyrics with Hugging Face's pre-trained Transformer neural network.
 
-The model itself can be trained further, plus the corpus can be expanded to include other artists and poets. Some of this work was intially explored in an earlier project of mine: custom-markov-text-generator
+The model itself can be trained further since this was only done on my local machine. Plus, the corpus can be expanded to include other artists and poets. Some of this work was intially explored in an earlier project of mine: [custom-markov-text-generator](https://github.com/ssk0011/custom-markov-text-generator)
 
 ## Here's a sample (cleaned up to remove extra spaces/extra punctuation):
 
