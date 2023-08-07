@@ -1,6 +1,6 @@
 # bob_dylan_hugging_face_text_generator
 
-An exploration of recreating Bob Dylan-esque lyrics with Hugging Face's pre-trained Transformer neural network.
+An exploration of recreating Bob Dylan-esque lyrics with Hugging Face's pre-trained Transformer neural network, from the following Kaggle dataset: https://www.kaggle.com/datasets/cloudy17/bob-dylan-songs 
 
 The model itself can be trained further since this was only done on my local machine. Plus, the corpus can be expanded to include other artists and poets. Some of this work was intially explored in an earlier project of mine: [custom-markov-text-generator](https://github.com/ssk0011/custom-markov-text-generator)
 
